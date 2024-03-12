@@ -44,14 +44,9 @@ If I want to suspend VM 106 on the 19th of April 2024 with owner "Jhon@pve", the
 - Crear un archivo ".txt" que se especificará en el script, en el cuál el formato será: "`(id vm a suspender):(día de la suspensión):(mes):(año):(hora):(minuto):(segundo):(dueño (más adelante se especificará esto))`"
 - Tener a un usuario asignado como "Propietario" de la VM
 
-**Curl:**
+**Git:**
 ```bash
-curl -L test.sh
-```
-
-**wget:**
-```bash
-wget test.sh
+git clone https://github.com/lobitoogamer/pvevmsuspend
 ```
 
 ## Comandos (🇪🇸)
