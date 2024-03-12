@@ -1,4 +1,4 @@
-# Proxmox Suspend System (BASH)
+# Proxmox Suspend Script (BASH)
 - This Script is designed for Proxmox 8.1 with Debian 12
 - This Script was created for little hosting
 - This guide have a [Spanish (🇪🇸)](https://github.com/lobitoogamer/pvevmsuspend?tab=readme-ov-file#preparaci%C3%B3n-e-instalaci%C3%B3n-) part and [English (🇺🇸)](https://github.com/lobitoogamer/pvevmsuspend?tab=readme-ov-file#preparation-and-installation-) Part
