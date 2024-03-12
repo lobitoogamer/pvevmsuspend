@@ -9,14 +9,9 @@
 - Create a ".txt" file specified in the script, where the format will be: "`(vm id to suspend):(day of suspension):(month):(year):(hour):(minute):(second):(owner (this will be specified later))`"
 - Have a user assigned as the "Owner" of the VM.
 
-**Curl:**
+**Git:**
 ```bash
-curl -L test.sh
-```
-
-**wget:**
-```bash
-wget test.sh
+git clone https://github.com/lobitoogamer/pvevmsuspend
 ```
 
 ## Commands (🇺🇸)
